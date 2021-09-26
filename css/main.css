@@ -26,13 +26,13 @@ header {
     overflow: auto;
 }
 
-.social_btn > img {
+.social_btn img {
     display: block;
     margin: 10px auto 0;
     cursor: pointer;
 }
 
-.social_btn:nth-last-child(1) > img {
+.social_btn:nth-last-child(1) img {
     margin-bottom: 10px;
 }
 
